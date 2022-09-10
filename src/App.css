@@ -25,10 +25,9 @@
 }
 
 .search-bar {
-    max-width: 90%;
+    max-width: 90vw;
 }
 
 .cards {
-    min-width: 50vw;
-    width: 90%;
+    width: 80vw;
 }
