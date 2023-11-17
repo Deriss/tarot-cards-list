@@ -20,6 +20,7 @@ function App(){
 function Home(){
   
   return ( <div className = 'home'>
+    <div id='div-titulo'> <h1>Tarot da Juliana</h1></div>
     <Link to="/cards" id='button-list' className="btn btn-light btn-lg">Abrir Lista de Cartas</Link>
   
   </div>
@@ -41,7 +42,7 @@ function Cards() {
     setSearchText("")
   }
   return (
-    <div className="App">
+    <div className="BackgroundList">
     <h1>Tarot da Juliana</h1>
     <h2>Lista de Cartas</h2>
     
