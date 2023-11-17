@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tarot-cards/static/css/main.6a3bfc9b.css",
+    "main.js": "/tarot-cards/static/js/main.b1f7a3c5.js",
+    "static/media/tarot-witcher2.jpeg": "/tarot-cards/static/media/tarot-witcher2.26dab5d05acea3c11696.jpeg",
+    "index.html": "/tarot-cards/index.html",
+    "main.6a3bfc9b.css.map": "/tarot-cards/static/css/main.6a3bfc9b.css.map",
+    "main.b1f7a3c5.js.map": "/tarot-cards/static/js/main.b1f7a3c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3bfc9b.css",
+    "static/js/main.b1f7a3c5.js"
+  ]
+}
