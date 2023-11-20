@@ -33,7 +33,7 @@ export const allTarotCards = [{
             image: '',
             representa: 'El Emperador simboliza el Control Autoritario por Inteligencia.', 
             descricao:'Poder mundano. Gran capacidad de rendimiento. Confianza. Riqueza. Estabilidad. Autoridad. Espíritu Intransigencia. Padre Hermano. Esposo. Influencia masculina. Presión directa. Comunicación. Convicción. Fuerza. Consigue sus metas.',
-            desc_invertida: 'Inmadurez. Debilidad Indecisión incapaz de controlar emociones mezquinas.'
+            desc_invertida: 'Inmadurez. Debilidad. Indecisión. Incapaz de controlar emociones mezquinas.'
         },
         {
             nome: 'El Sumo Sacerdote',
@@ -46,7 +46,7 @@ export const allTarotCards = [{
             nome: 'Los Enamorados',
             image: '',
             representa: 'Los Enamorados simbolizan el equilibroentre dos potencias.',
-            descricao: 'Amor Belleza Unanimidad Pruebas superadas Confianza Honor Comienzo de un posible idilio. Apasionamiento. Optimismo. Desespero. Abandonarse. Necesidad de probar o someterse a la prueba. Lucha entre el amor sagrado y el profano. Examen Anhelo ardiente.',
+            descricao: 'Amor. Belleza. Unanimidad. Pruebas superadas. Confianza. Honor. Comienzo de un posible idilio. Apasionamiento. Optimismo. Desespero. Abandonarse. Necesidad de probar o someterse a la prueba. Lucha entre el amor sagrado y el profano. Examen Anhelo ardiente.',
             desc_invertida: 'Incapacidad de superar la prueba Infidelidad. Seperación. Frustración en el amor y en el matrimonio. Interferencias de otros Inconstancia. Proyectos imprudentes.'
         },
         {

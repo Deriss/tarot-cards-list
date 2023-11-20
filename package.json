@@ -1,8 +1,8 @@
 {
     "name": "tarot-cards",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "private": false,
-    "homepage": "https://deriss.github.io/tarot-cards/",
+    "homepage": "https://deriss.github.io/tarot-cards-list",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.5",
         "@testing-library/react": "^13.3.0",
